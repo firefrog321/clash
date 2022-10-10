@@ -1,0 +1,6 @@
+payload:
+ # 
+ - DOMAIN,contentsync.onenote.com
+ # 本地软件的局域网
+ - DOMAIN,clash.razord.top,DIRECT
+ - DOMAIN,yacd.haishan.me,DIRECT
