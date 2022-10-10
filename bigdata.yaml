@@ -2,4 +2,4 @@ payload:
   # 内容：使用省流量节点
   - DOMAIN-SUFFIX,ttvnw.net
   # google play下载
-  - '+.xn--ngstr-lra8j.com'
+  - DOMAIN-KEYWORD,lra8j
