@@ -1,3 +1,6 @@
 payload:
   # OneDrive 下载
   - DOMAIN-KEYWORD,1drv
+   # 本地软件的局域网
+ - DOMAIN,clash.razord.top,DIRECT
+ - DOMAIN,yacd.haishan.me,DIRECT
