@@ -5,3 +5,4 @@ payload:
  - DOMAIN,www.sslproxies.org
  - DOMAIN-SUFFIX,us-proxy.org
  - DOMAIN,tool.oschina.net
+ - DOMAIN-SUFFIX,freeproxy.pro
