@@ -1,6 +1,7 @@
 payload:
  # 
  - DOMAIN,contentsync.onenote.com
+ - DOMAIN-KEYWORD,poecdn
  - DOMAIN,duangks.com
  - DOMAIN,www.sslproxies.org
  - DOMAIN-SUFFIX,us-proxy.org
