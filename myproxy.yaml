@@ -9,6 +9,7 @@ payload:
  - DOMAIN-SUFFIX,freeproxy.pro
  - DOMAIN-KEYWORD,ytmp3cut
  - DOMAIN-SUFFIX,azureedge.net
+ - DOMAIN-SUFFIX,blizzard.com
  - DOMAIN-KEYWORD,killcovid2021
  - DOMAIN-KEYWORD,openai
  - DOMAIN-KEYWORD,riotgames
