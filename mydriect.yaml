@@ -1,6 +1,9 @@
 payload:
   # OneDrive 下载
   - DOMAIN-KEYWORD,1drv
+  
+  - DOMAIN-KEYWORD,notion
   # 本地软件的局域网
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
+  
