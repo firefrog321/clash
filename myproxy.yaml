@@ -16,3 +16,5 @@ payload:
  - DOMAIN-KEYWORD,oxygennotincluded
  - DOMAIN-KEYWORD,poeplanner
  - DOMAIN-KEYWORD,unsplash
+ -- 使用bing ai
+ - DOMAIN-KEYWORD,bing
