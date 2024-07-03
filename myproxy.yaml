@@ -19,3 +19,4 @@ payload:
  # 使用bing ai
  - DOMAIN-KEYWORD,bing
  - DOMAIN-KEYWORD,blizzard
+ - DOMAIN-KEYWORD,hoyolab
