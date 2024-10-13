@@ -1,7 +1,6 @@
 payload:
  # 
  - DOMAIN,contentsync.onenote.com
- - DOMAIN-KEYWORD,poecdn
  - DOMAIN,duangks.com
  - DOMAIN,www.sslproxies.org
  - DOMAIN-SUFFIX,us-proxy.org
@@ -9,12 +8,16 @@ payload:
  - DOMAIN-SUFFIX,freeproxy.pro
  - DOMAIN-KEYWORD,ytmp3cut
  - DOMAIN-SUFFIX,azureedge.net
+ #
  - DOMAIN-SUFFIX,blizzard.com
- - DOMAIN-KEYWORD,killcovid2021
- - DOMAIN-KEYWORD,openai
  - DOMAIN-KEYWORD,riotgames
  - DOMAIN-KEYWORD,oxygennotincluded
  - DOMAIN-KEYWORD,poeplanner
+ - DOMAIN-KEYWORD,poecdn
+ #
+ - DOMAIN-KEYWORD,killcovid2021
+ - DOMAIN-KEYWORD,hath
+ - DOMAIN-KEYWORD,openai
  - DOMAIN-KEYWORD,unsplash
  # 使用bing ai
  - DOMAIN-KEYWORD,bing
