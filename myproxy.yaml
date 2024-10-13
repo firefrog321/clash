@@ -16,7 +16,7 @@ payload:
  - DOMAIN-KEYWORD,poecdn
  #
  - DOMAIN-KEYWORD,killcovid2021
- - DOMAIN-KEYWORD,hath
+ # DOMAIN-KEYWORD,hath
  - DOMAIN-KEYWORD,openai
  - DOMAIN-KEYWORD,unsplash
  # 使用bing ai
