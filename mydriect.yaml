@@ -1,6 +1,7 @@
 payload:
   # OneDrive 下载
   - DOMAIN-KEYWORD,1drv
+  - DOMAIN-KEYWORD,gofile
   - DOMAIN-KEYWORD,notion
   - DOMAIN-KEYWORD,teracloud
   # 本地软件的局域网
