@@ -16,6 +16,7 @@ payload:
  - DOMAIN-KEYWORD,poecdn
  #
  - DOMAIN-KEYWORD,killcovid2021
+ - DOMAIN-KEYWORD,hembed
  # DOMAIN-KEYWORD,hath
  - DOMAIN-KEYWORD,openai
  - DOMAIN-KEYWORD,unsplash
@@ -25,3 +26,4 @@ payload:
  - DOMAIN-KEYWORD,hoyolab
  # idea
  - DOMAIN-KEYWORD,jetbrains
+ 
