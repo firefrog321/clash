@@ -10,6 +10,7 @@ payload:
  - DOMAIN-SUFFIX,azureedge.net
  #
  - DOMAIN-SUFFIX,blizzard.com
+ - DOMAIN-SUFFIX,battle.net
  - DOMAIN-KEYWORD,riotgames
  - DOMAIN-KEYWORD,oxygennotincluded
  - DOMAIN-KEYWORD,poeplanner
