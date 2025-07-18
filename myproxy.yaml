@@ -1,6 +1,10 @@
 payload:
  # 
  - DOMAIN,contentsync.onenote.com
+ - DOMAIN-KEYWORD,notion
+ - DOMAIN-KEYWORD,jetbrains
+ - DOMAIN-KEYWORD,bing
+ # proxy
  - DOMAIN,duangks.com
  - DOMAIN,www.sslproxies.org
  - DOMAIN-SUFFIX,us-proxy.org
@@ -10,9 +14,11 @@ payload:
  - DOMAIN-SUFFIX,azureedge.net
  # games
  - DOMAIN-SUFFIX,blizzard.com
+ - DOMAIN-KEYWORD,blizzard
  - DOMAIN-SUFFIX,battle.net
  - DOMAIN-KEYWORD,riotgames
  - DOMAIN-KEYWORD,oxygennotincluded
+ - DOMAIN-KEYWORD,hoyolab
  - DOMAIN-KEYWORD,pathofexile
  - DOMAIN-KEYWORD,poeplanner
  - DOMAIN-KEYWORD,poecdn
@@ -23,10 +29,3 @@ payload:
  # DOMAIN-KEYWORD,hath
  - DOMAIN-KEYWORD,openai
  - DOMAIN-KEYWORD,unsplash
- # 使用bing ai
- - DOMAIN-KEYWORD,bing
- - DOMAIN-KEYWORD,blizzard
- - DOMAIN-KEYWORD,hoyolab
- # idea
- - DOMAIN-KEYWORD,jetbrains
- 
