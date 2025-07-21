@@ -14,7 +14,6 @@ payload:
  - DOMAIN-SUFFIX,azureedge.net
  # games
  - DOMAIN-SUFFIX,blizzard.com
- - DOMAIN-KEYWORD,steamserver
  - DOMAIN-KEYWORD,blizzard
  - DOMAIN-SUFFIX,battle.net
  - DOMAIN-KEYWORD,riotgames
