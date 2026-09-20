@@ -23,8 +23,11 @@ payload:
  - DOMAIN-KEYWORD,poeplanner
  - DOMAIN-KEYWORD,poecdn
  - DOMAIN-KEYWORD,ninja
- #
+ # porn
  - DOMAIN-KEYWORD,killcovid2021
+ - DOMAIN-KEYWORD,esjzone
+ 
+ # other
  - DOMAIN-KEYWORD,hembed
  # DOMAIN-KEYWORD,hath
  - DOMAIN-KEYWORD,openai
